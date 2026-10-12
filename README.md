@@ -1,4 +1,6 @@
 # Olá, Mundo!
-Primeiro Repositorio curso de Git e GittHub
+Primeiro Repositório curso de Git e GittHub
 
 Repositório criado para teste de aprendizado.
+
+Esta linha foi adicionada online
